@@ -1,7 +1,6 @@
 {
   "name": "user-project",
   "version": "1.0.0",
-  "description": "",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -17,5 +16,6 @@
     "express": "^4.21.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.7.0"
-  }
+  },
+  "description": ""
 }
